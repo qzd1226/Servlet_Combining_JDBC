@@ -1,0 +1,6 @@
+CREATE TABLE admin{
+    username VARCHAR (28) PRIMARY KEY,
+    PASSWORD VARCHAR (20) NOT NULL,
+    phone vachar(11) NOT NULL,
+    Address varchar(20) NOT NULL
+    }CHARSET = uff8;
