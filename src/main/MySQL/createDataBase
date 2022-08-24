@@ -4,3 +4,6 @@ CREATE TABLE admin{
     phone vachar(11) NOT NULL,
     Address varchar(20) NOT NULL
     }CHARSET = uff8;
+
+INSERT INTO admin(username,PASSWORD,phone,address)
+VALUES('qzd','12345','12345678','USA');
